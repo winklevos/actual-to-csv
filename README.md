@@ -24,10 +24,9 @@ This Python script takes an [export](https://actualbudget.github.io/docs/Getting
 
 ### Excludes
 
-- Delete transactions
+- Deleted transactions
 - Starting balance transactions
 - Transfer transactions
-
 
 ### Fields
 
