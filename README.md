@@ -7,7 +7,7 @@ This Python script takes an [export](https://actualbudget.github.io/docs/Getting
 ## Requirements
 
 - Actual Budget Export
-- Python3
+- Python3 ([how to run](https://realpython.com/run-python-scripts/))
 
 ## Running
 
