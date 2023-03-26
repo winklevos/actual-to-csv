@@ -15,3 +15,32 @@ This Python script takes an [export](https://actualbudget.github.io/docs/Getting
 2. Run the [script](/src/main.py)
 3. Input the full path to the Actual export `.zip`
 4. (Optional) Input a full path for the resulting `.csv`
+
+## Outputs
+
+### Includes
+
+- All transactions from all closed and open accounts
+
+### Excludes
+
+- Delete transactions
+- Starting balance transactions
+- Transfer transactions
+
+
+### Fields
+
+- Transation Date
+- Amount
+- Notes
+- Imported Description
+- Account Name
+- Account Type
+- Account Off Budget
+- Account Closed
+- Category
+- Cateogry Is Income
+- Category Group
+- Payee
+
